@@ -1,7 +1,7 @@
 import json
 import requests
 
-url = "https://fastapi-temp1.onrender.com/predict"
+url = "https://vijeshpillai-serving-ml-model-as-an-api.onrender.com/predict"
 
 x_new = dict(
 	company="Ford",
